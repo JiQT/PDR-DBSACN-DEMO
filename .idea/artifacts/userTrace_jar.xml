@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="userTrace:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/userTrace_jar</output-path>
+    <root id="archive" name="userTrace.jar">
+      <element id="module-output" name="userTrace" />
+    </root>
+  </artifact>
+</component>
